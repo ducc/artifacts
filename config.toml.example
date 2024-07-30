@@ -1,0 +1,9 @@
+[[characters]]
+name = "ducc"
+
+  [[characters.tasks]]
+  name = "MineIron"
+  
+  [[characters.tasks]]
+  name = "DepositInventory"
+  condition = "FullInventory"
